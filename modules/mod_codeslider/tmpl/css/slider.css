@@ -1,0 +1,85 @@
+/* Copyright http://codematrix.ru/ Alex Voloh*/
+/* License: GNU/GPL v.2 or later */
+/* Non-commercial */
+.codegallery {
+	position: relative;
+	width: 100%;
+	background: #ddd;
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	box-shadow: #000 0 0 50px 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.codeprev, .previmage{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 10%;
+	height: 100%;
+	background: #141516;
+	opacity: 0.3;
+	z-index: 100;
+}
+
+.codenext, .nextimage {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 10%;
+	height: 100%;
+	background: #141516;
+	opacity: 0.3;
+	z-index: 100;
+}
+
+.previmage, .nextimage {
+	cursor: pointer;
+}
+
+.previmage:hover, .nextimage:hover {
+	opacity: 0.8;
+}
+
+.imgtooltip {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	z-index: 100;
+	background: #141516;
+	opacity: 0;
+	color: #fff;
+	padding: 10px;
+	font-size: 110%;
+	text-transform: uppercase;
+	font-family: arial, sans-serif;
+	display: none;
+}
+
+.imgtooltip div {
+	opacity: 0;
+	padding-right: 10px;
+	line-height: 16pt;
+}
+
+.codeimage {
+	position: relative;
+	display: inline-block;
+}
+
+.codeimage img {
+	width: 100%;
+	border: none;
+	outline: none;
+	padding: 0;
+	margin: 0;
+	opacity: 1;
+}
+
+.carousel {
+	position: absolute;
+	font-size: 0;
+}
