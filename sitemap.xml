@@ -1,645 +1,471 @@
-﻿<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type="text/xsl" href="http://www.diamondoccasion.com.au//administrator/components/com_jcrawler/sitemap.xsl"?>
+﻿<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type="text/xsl" href="http://www.diamondoccasion.net.au//administrator/components/com_jcrawler/sitemap.xsl"?>
 	<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>1.0</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.94</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.7</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.77</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.7</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.67</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.75</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/5-cs</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
+		   <priority>0.83</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/cut</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
+		   <priority>0.73</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/clarity</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/colour</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/carat-weight</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/conflict-free</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/diamond-shapes</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/choosing-diamonds/certification</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.66</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/about-us</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.67</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/about-us/jewellery-repairs</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.73</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/cut</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/contact-us</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/clarity</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/sitemap.xml</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/138-the-regent</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/135-sentimental</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/134-ripples</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/133-pretty-posy</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/132-pink-passion</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/130-paris</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/128-navetta</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/126-kristy</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/125-heritage</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/121-eclipse</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/120-dreaming</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/119-diamond-parade</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/118-cuore</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/117-celine</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/116-bouquette</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/89-sunrise-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/87-sole</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/86-linear-7-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/85-lovesme</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/84-engageing-diamon-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/83-elegance</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/82-diamond-occasion-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/81-daze</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/80-corinthian-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/79-capriole-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement/77-diamond-rings-baci</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/138-the-regent</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/135-sentimental</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/134-ripples</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/133-pretty-posy</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/132-pink-passion</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/130-paris</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/128-navetta</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/126-kristy</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/125-heritage</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/121-eclipse</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/120-dreaming</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/119-diamond-parade</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/118-cuore</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/117-celine</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/116-bouquette</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/89-sunrise-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/87-sole</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/86-linear-7-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/85-lovesme</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/84-engageing-diamon-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/83-elegance</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/82-diamond-occasion-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/81-daze</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/80-corinthian-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/79-capriole-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/engagement-rings/11-engagement/77-diamond-rings-baci</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/141-evening-pearl</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/colour</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/140-tres-baguettes</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/139-the-victoria</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/carat-weight</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/129-opera</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/conflict-free</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/97-sunflower-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/96-silhouette</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/diamond-shapes</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/95-nove-diamond-white-gold</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/choosing-diamonds/certification</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/94-diamond-ring-intwined</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/about-us</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.67</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/about-us/jewellery-repairs</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/93-contrast-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/92-cherish</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/91-bloom</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/122-effervescence</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/contact-us</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/88-solstice-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/sitemap.xml</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/138-the-regent</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/135-sentimental</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/134-ripples</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/133-pretty-posy</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/132-pink-passion</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/130-paris</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/128-navetta</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/126-kristy</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/125-heritage</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/121-eclipse</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/120-dreaming</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/119-diamond-parade</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/118-cuore</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/117-celine</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/116-bouquette</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/89-sunrise-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/87-sole</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/86-linear-7-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/85-lovesme</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/84-engageing-diamon-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/83-elegance</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/82-diamond-occasion-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/81-daze</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/80-corinthian-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/79-capriole-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/engagement-rings/11-engagement/77-diamond-rings-baci</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/141-evening-pearl</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings/12-dress/78-blue-curlicue-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/140-tres-baguettes</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.65</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/139-the-victoria</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/131-pendulum</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/129-opera</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/108-aspis</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/97-sunflower-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/136-sundial</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/107-ruby-occasion-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/106-pink-celebration-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/96-silhouette</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/105-diamond-ear-rings-half-pipe-wave</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/95-nove-diamond-white-gold</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/104-golden-leaf</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/103-diamond-pendant-eden</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/94-diamond-ring-intwined</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/102-curvo</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/93-contrast-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/101-crux-diamond</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/100-diamond-pendant-compass-point</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/92-cherish</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/76-adelle</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/dress-rings-2/13-pendantsearrings/124-gemelli</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
-		   <changefreq>daily</changefreq>
-		   <priority>0.65</priority>
-		</url>
-		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery/14-mens-jewellery/137-technique</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/91-bloom</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.66</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery/14-mens-jewellery/127-martin-and-lewis</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/122-effervescence</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/88-solstice-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings/12-dress/78-blue-curlicue-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/131-pendulum</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/108-aspis</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/136-sundial</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery/14-mens-jewellery/114-tides-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/107-ruby-occasion-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/106-pink-celebration-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/105-diamond-ear-rings-half-pipe-wave</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/104-golden-leaf</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/103-diamond-pendant-eden</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/102-curvo</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/101-crux-diamond</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/100-diamond-pendant-compass-point</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/76-adelle</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/dress-rings-2/13-pendantsearrings/124-gemelli</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery/14-mens-jewellery/113-the-mill-engagement-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery/14-mens-jewellery/137-technique</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery/14-mens-jewellery/112-sophistication</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery/14-mens-jewellery/127-martin-and-lewis</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery/14-mens-jewellery/114-tides-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
+		   <changefreq>daily</changefreq>
+		   <priority>0.66</priority>
+		</url>
+		<url>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery/14-mens-jewellery/113-the-mill-engagement-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/mens-jewellery/14-mens-jewellery/111-horizon-diamond-rings</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery/14-mens-jewellery/112-sophistication</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/5-cs</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/gallery/mens-jewellery/14-mens-jewellery/111-horizon-diamond-rings</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/mailto%3A</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/5-cs</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
 		   <priority>0.65</priority>
 		</url>
 		<url>
-		   <loc>http://www.diamondoccasion.com.au/gallery/11-engagement</loc>
-		   <lastmod>2014-02-17T10:20:13Z</lastmod>
+		   <loc>http://www.diamondoccasion.net.au/mailto%3A</loc>
+		   <lastmod>2014-05-27T06:20:58Z</lastmod>
 		   <changefreq>daily</changefreq>
-		   <priority>0.75</priority>
+		   <priority>0.65</priority>
 		</url>
 	</urlset>
