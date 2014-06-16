@@ -1,4 +1,4 @@
-[![Diamond Occasion](https://raw.githubusercontent.com/stevenocchipinti/diamondoccasion/gh-pages/images/diamondoccasion/logo.jpg)](http://diamondoccasion.net.au)
+[![Diamond Occasion](https://raw.githubusercontent.com/stevenocchipinti/diamondoccasion/gh-pages/images/diamondoccasion/logo.jpg)](http://www.diamondoccasion.net.au)
 
 
 Description
@@ -32,5 +32,5 @@ How?
 #   -e robots=off     ignore the robots.txt restriction
 #
  
-wget --mirror -nH -np -p -k -E -e robots=off http://diamondoccasion.net.au
+wget --mirror -nH -np -p -k -E -e robots=off http://www.diamondoccasion.net.au
 ```
